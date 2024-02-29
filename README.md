@@ -1,4 +1,4 @@
-<h1 align="center">SQL e JDBC em Java</h1
+<h1 align="center">JDBC e SQL em Java</h1
 
 <p align="center">
 
@@ -28,7 +28,7 @@ Este curso oferece uma introdução prática ao SQL e ao JDBC em Java, capacitan
 </p>
 
 <h1 align="center">
-    <a href="[https://pt-br.reactjs.org/](https://rockcontent.com/br/blog/jdbc/#:~:text=JDBC%20funciona%20como%20uma%20interface,dos%20dados%20em%20uma%20aplicação.)">🔗 JDBC e SQL</a>
+    <a href="https://rockcontent.com/br/blog/jdbc/#:~:text=JDBC%20funciona%20como%20uma%20interface,dos%20dados%20em%20uma%20aplicação.">🔗 JDBC e SQL</a>
 </h1>
 <p align="center">🚀 texto alternativo de introdução ao JDBC com SQL</p>
 
